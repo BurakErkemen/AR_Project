@@ -11,66 +11,71 @@ Koşan Barbar
 
 4-6 yaş aralığındaki çocuklar
 
-## 1.3	Oyun Açıklaması
+## Oyun Başlangıcı ve Öğretici Mod
 
-Oyun başlangıç olarak öğretici ve normal bir başlama bize sunmaktadır.
+Oyun, kullanıcılara iki farklı başlama seçeneği sunmaktadır: **Normal Başlangıç** ve **Öğretici Mod**.
 
-![image](https://github.com/BurakErkemen/AR_Project/assets/84676805/59092db1-ff4e-4650-8885-c9ae9f53d8e0)
-    
-    Şekil 1-Giriş Sayfası
+![Giriş Sayfası](https://github.com/BurakErkemen/AR_Project/assets/84676805/59092db1-ff4e-4650-8885-c9ae9f53d8e0)
+
+*Şekil 1: Giriş Sayfası*
+- **Normal Başlangıç:** Bu seçenekle oyuncular, direkt olarak oyunun ana bölümüne başlarlar ve sayıları takip ederek eğlenceli bir deneyim yaşarlar.
+  
+- **Öğretici Mod:** Eğer kullanıcılar oyunu ilk defa oynuyorlarsa veya konseptlere hızlı bir şekilde aşina olmak istiyorlarsa, öğretici modu seçebilirler. Öğretici mod, sesli yönergelerle oyunculara nasıl oynanacağını anlatır ve ortalama bir dakika içinde tamamlanır.
+
+Bu seçenekler, kullanıcıların oyunu kendi tercihlerine göre keşfetmelerini sağlar, hem hızlı bir başlangıç hem de detaylı bir öğrenme deneyimi sunar.
+
+![Öğretici Mod Sesleri](https://github.com/BurakErkemen/AR_Project/assets/84676805/20f9e67e-ae3c-4e13-89db-9468f3bcae85)
+
+*Şekil 2: Öğretici Mod Sesleri*
+Bu resimde, projenin öğretici modunda kullanılan sesli bildirimleri görmektesiniz. Sesli yönergeler, çocuklara oyunu öğrenmeleri ve anlamaları konusunda rehberlik eder. Her bir ses, çocukları oyunun temel konseptleri hakkında bilgilendirir ve eğitim sürecini daha etkileşimli hale getirir.
 
 
-Normal olarak başla veya öğretici modla devam edilebilir. Öğretici mod sesli olarak yapılacakları yönetir ve ortalama bir dakikanın içinde bitirir.
 
-![image](https://github.com/BurakErkemen/AR_Project/assets/84676805/20f9e67e-ae3c-4e13-89db-9468f3bcae85)
-    
-    Şekil 2-Öğretici Mod Sesleri
+## Oyun Başlangıcı: Barbarın Ardından Sayıları Görmek
 
+Oyun başladığında, oyuncular doğrudan barbarın arkasından sayıları gördükleri etkileyici bir sahne ile karşılaşırlar.
 
-Oyuna normal olarak başladıktan sonra karşımıza direkt olarak barbarın arkasından sayıları gördüğünüz sahne yer alır.
+![Oyun Başlangıcı](https://github.com/BurakErkemen/AR_Project/assets/84676805/cf91d396-fa8f-4ee0-942f-52f8ea2b8a04)
 
-![image](https://github.com/BurakErkemen/AR_Project/assets/84676805/cf91d396-fa8f-4ee0-942f-52f8ea2b8a04)
-    
-    Şekil 3-Oyun Başlangıcı
+*Şekil 3: Oyun Başlangıcı*
+Bu sahne, oyunculara hemen eyleme geçme fırsatı tanır ve barbarın rehberliğinde sayıları takip etme becerilerini geliştirmelerini sağlar. Oyuncular, bu eğlenceli başlangıç ​​sahnesi ile oyunun temel mekaniklerine hızlı bir şekilde adapte olabilirler.
 
 Karakter devam ederek sesle verilen sayıya doğu koşmanız istenir. Sayıya temas durumunda yeni sayı söylenir.
+
 # 2.	Oyun Mekanikleri
 
 ## 2.1	Sayı Yok Etme
 
 Karakter istenilen sayıya değdiğinizde sayı yok olur ve üç saniye sonra tekrar karşımıza çıkar. Sistem tekrar aynı sayıyı oluşturmaz. 
 
-# 4.	Grafik ve Tasarım
-## 3.1	 3D Sayılar
-Her iki sayıdan bir tanesi farklı materyal eklenerek tasarımı değiştirilmiştir. Göze hitap etmesi ve ilgi uyandırması hedeflenmiştir. 
+## 3. Grafik ve Tasarım
 
+### 3.1 3D Sayılar
+Tasarım, her iki sayıdan birine farklı bir materyal eklenerek özelleştirildi. Bu yaklaşım, sayıların çekici ve dikkat çekici olmasını hedefler.
 
-![image](https://github.com/BurakErkemen/AR_Project/assets/84676805/ea356129-0452-497a-b51a-4cd6d1ccfeaa)
-    
-    Şekil 4-Rakamlar
+![Rakamlar](https://github.com/BurakErkemen/AR_Project/assets/84676805/ea356129-0452-497a-b51a-4cd6d1ccfeaa)  
 
- ## 3.2	Karakter Tasarımı
-Karakterimiz bir barbar olup yürüme animasyonu ve duruşu ile ilgi uyandırıcı olduğu düşünülmüştür. Çocuklara kötü örnek teşkil etmeyecek tasarımı mevcuttur. 
+*Şekil 4: Özelleştirilmiş 3D Sayılar*
 
+### 3.2 Karakter Tasarımı
+Oyun karakterimiz bir barbar olarak seçildi ve onun yürüme animasyonu ile duruşu, çocuklar için ilgi çekici olacak şekilde düşünüldü. Tasarım, çocuklara olumsuz etki yapmayacak bir şekilde özenle seçildi.
 
-![image](https://github.com/BurakErkemen/AR_Project/assets/84676805/108dcec7-ce85-4cef-9863-8d7c01c8f839)
-    
-    Şekil 5-Karakter Görseli
+![Karakter Görseli](https://github.com/BurakErkemen/AR_Project/assets/84676805/108dcec7-ce85-4cef-9863-8d7c01c8f839)  
 
+*Şekil 5: Çocuklara Uygun Barbar Karakter*
 
-# 4.	Eğitim Odaklı Özellikler
+# 4. Eğitim Odaklı Özellikler
 
-## 4.1	İleri düzey Seviyeler
-Oyun, çocukların rakamları öğrenmesi hedeflenerek geliştirilmiştir. Geliştirilmenin sonraki aşamalarında materyal olarak farklı renkler eklenen sayılar arasından renkleri ve tek çift sayıları öğretmek düşünülmektedir. Örnek vermek
-gerekirse;
-“Rengi mavi olan rakamlardan hangisi tek sayıdır?” şeklinde sorular sorularak ilerleyen aşamalarda çocuğa sadece rakamları değil aynı zamanda renk ve tek-çift durumlarını da öğretebilmek hedeflenmiştir.
+## 4.1 İleri Düzey Seviyeler
+Oyun, çocukların rakamları öğrenmesini hedefleyerek geliştirilmiştir. Geliştirme aşamalarında, materyal olarak farklı renkler eklenen sayılar arasından renkleri ve tek-çift sayıları öğretmeyi amaçlamaktadır. Örnek vermek gerekirse;
+"Rengi mavi olan rakamlardan hangisi tek sayıdır?" şeklinde sorular sorularak ilerleyen aşamalarda çocuğa sadece rakamları değil, aynı zamanda renk ve tek-çift durumlarını da öğretmeyi hedeflemektedir.
 
 ## 4.2 Sesli Bildirim
 Rakamlar çocuğa sesli olarak söylenir. Başarılı olması durumunda tebrik veya oyun bitti şeklinde sesler de mevcuttur.
 
-![image](https://github.com/BurakErkemen/AR_Project/assets/84676805/0d426a39-495b-4acd-b518-424601c26839)
-    
-    Şekil 6-Örnek Rakamlar
+![Örnek Rakamlar](https://github.com/BurakErkemen/AR_Project/assets/84676805/0d426a39-495b-4acd-b518-424601c26839)  
+
+*Şekil 6: Örnek Rakamlar*
 
 
 # 5.	Kullanılan Yazılımlar
