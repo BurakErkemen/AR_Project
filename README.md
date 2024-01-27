@@ -107,28 +107,28 @@ Rakamlar çocuğa sesli olarak söylenir. Başarılı olması durumunda tebrik v
 
 # 8. RAMS Tasarım İlkeleri
 
-## 8.1 Güvenilirlik (Reliability)
+## 8.1 Güvenilirlik 
 
 **AR Projesi Güvenilirlik Tasarımı:**
 - AR uygulaması, çocuklara sayıları öğretmeyi hedeflediği için sürekli ve arızasız bir performans sergilemelidir.
 - Uygulamanın sayıları tanıma ve kullanıcıyla etkileşimde bulunma yeteneği güvenilir olmalıdır.
 - İleri düzey seviyelerde ve farklı renklerle genişletilebilir olmalıdır.
 
-## 8.2 Kullanılabilirlik (Availability)
+## 8.2 Kullanılabilirlik 
 
 **AR Projesi Kullanılabilirlik Tasarımı:**
 - Oyun, kullanıcıya normal başlangıç veya öğretici mod gibi seçenekler sunarak kullanıcı dostu bir arayüz sağlar.
 - Oyunun öğretici modu, çocukların hızlı bir şekilde oyunu öğrenmelerini ve anlamalarını sağlar, bu da kullanılabilirliği artırır.
 - Kullanıcının istediği işlemi hızlıca seçebilmesi için giriş sayfasında anlaşılır bir düzen sağlanmıştır.
 
-## 8.3 Bakım Yapılabilirlik (Maintainability)
+## 8.3 Bakım Yapılabilirlik 
 
 **AR Projesi Bakım Yapılabilirlik Tasarımı:**
 - Uygulamanın yazılım mimarisi ve kodlama standartları, bakım yapılabilirliği artırmak için düzenlenmiştir.
 - Eğitim odaklı özelliklerin ve sayıların kolayca güncellenebilir olması için modüler bir yapı kullanılmıştır.
 - Bakım süreçleri, olası hataların hızlı bir şekilde giderilebilmesi ve yeni özelliklerin eklenmesini kolaylaştırmak için düzenlenmiştir.
 
-## 8.4 Güvenlik (Safety)
+## 8.4 Güvenlik 
 
 **AR Projesi Güvenlik Tasarımı:**
 - Karakter tasarımı, çocuklara uygun bir şekilde seçilmiştir, böylece oyun olumsuz etki yapmaz.
