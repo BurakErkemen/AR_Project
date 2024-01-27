@@ -10,17 +10,20 @@
     Oyun başlangıç olarak öğretici ve normal bir başlama bize sunmaktadır.
 
 ![image](https://github.com/BurakErkemen/AR_Project/assets/84676805/59092db1-ff4e-4650-8885-c9ae9f53d8e0)
+    
     Şekil 1-Giriş Sayfası
 
 
 Normal olarak başla veya öğretici modla devam edilebilir. Öğretici mod sesli olarak yapılacakları yönetir ve ortalama bir dakikanın içinde bitirir.
 
-![image](https://github.com/BurakErkemen/AR_Project/issues/2#issue-2103691381)
+![image](https://github.com/BurakErkemen/AR_Project/assets/84676805/20f9e67e-ae3c-4e13-89db-9468f3bcae85)
+    
     Şekil 2-Öğretici Mod Sesleri
 
 Oyuna normal olarak başladıktan sonra karşımıza direkt olarak barbarın arkasından sayıları gördüğünüz sahne yer alır.
 
 ![image](https://github.com/BurakErkemen/AR_Project/assets/84676805/cf91d396-fa8f-4ee0-942f-52f8ea2b8a04)
+    
     Şekil 3-Oyun Başlangıcı
 
 Karakter devam ederek sesle verilen sayıya doğu koşmanız istenir. Sayıya temas durumunda yeni sayı söylenir.
@@ -34,6 +37,7 @@ Karakter devam ederek sesle verilen sayıya doğu koşmanız istenir. Sayıya te
 
 
 ![image](https://github.com/BurakErkemen/AR_Project/assets/84676805/ea356129-0452-497a-b51a-4cd6d1ccfeaa)
+    
     Şekil 4-Rakamlar
 
   3.2	Karakter Tasarımı
@@ -41,6 +45,7 @@ Karakter devam ederek sesle verilen sayıya doğu koşmanız istenir. Sayıya te
 
 
 ![image](https://github.com/BurakErkemen/AR_Project/assets/84676805/108dcec7-ce85-4cef-9863-8d7c01c8f839)
+    
     Şekil 5-Karakter Görseli
 
 4.	Eğitim Odaklı Özellikler
@@ -52,6 +57,7 @@ Karakter devam ederek sesle verilen sayıya doğu koşmanız istenir. Sayıya te
     Rakamlar çocuğa sesli olarak söylenir. Başarılı olması durumunda tebrik veya oyun bitti şeklinde sesler de mevcuttur.
 
 ![image](https://github.com/BurakErkemen/AR_Project/assets/84676805/0d426a39-495b-4acd-b518-424601c26839)
+    
     Şekil 6-Örnek Rakamlar
 
 5.	Kullanılan Yazılımlar
