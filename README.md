@@ -2,12 +2,18 @@
 
 
 1.	PROJE BİLGİLERİ
-  1.1	Proje Adı 
-    Koşan Barbar
-  1.2	Hedef Kitle
-    4-6 yaş aralığındaki çocuklar
-  1.3	Oyun Açıklaması
-    Oyun başlangıç olarak öğretici ve normal bir başlama bize sunmaktadır.
+
+  	1.1	Proje Adı
+
+  	  Koşan Barbar
+
+  	1.2	Hedef Kitle
+
+  	  4-6 yaş aralığındaki çocuklar
+
+  	1.3	Oyun Açıklaması
+
+  	  Oyun başlangıç olarak öğretici ve normal bir başlama bize sunmaktadır.
 
 ![image](https://github.com/BurakErkemen/AR_Project/assets/84676805/59092db1-ff4e-4650-8885-c9ae9f53d8e0)
     
