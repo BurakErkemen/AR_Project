@@ -105,13 +105,44 @@ Rakamlar çocuğa sesli olarak söylenir. Başarılı olması durumunda tebrik v
 - **Teknolojik Değişiklikler:** Projenin teknolojik bağlılığı, teknolojik değişikliklere hassasiyet yaratabilir. Özellikle AR teknolojilerinde yaşanan hızlı değişimler göz önüne alınmalıdır.
 - **Rekabet:** Eğitim odaklı AR projeleri alanında rekabet oldukça yüksek olabilir. Bu nedenle, benzer projelerle rekabet etme stratejileri düşünülmelidir.
 
-# 8. Çalışanlar ve Sorumlulukları
+# 8. RAMS Tasarım İlkeleri
 
-## 8.1 Proje Yürütücü ve Geliştirici
+## 8.1 Güvenilirlik (Reliability)
+
+**AR Projesi Güvenilirlik Tasarımı:**
+- AR uygulaması, çocuklara sayıları öğretmeyi hedeflediği için sürekli ve arızasız bir performans sergilemelidir.
+- Uygulamanın sayıları tanıma ve kullanıcıyla etkileşimde bulunma yeteneği güvenilir olmalıdır.
+- İleri düzey seviyelerde ve farklı renklerle genişletilebilir olmalıdır.
+
+## 8.2 Kullanılabilirlik (Availability)
+
+**AR Projesi Kullanılabilirlik Tasarımı:**
+- Oyun, kullanıcıya normal başlangıç veya öğretici mod gibi seçenekler sunarak kullanıcı dostu bir arayüz sağlar.
+- Oyunun öğretici modu, çocukların hızlı bir şekilde oyunu öğrenmelerini ve anlamalarını sağlar, bu da kullanılabilirliği artırır.
+- Kullanıcının istediği işlemi hızlıca seçebilmesi için giriş sayfasında anlaşılır bir düzen sağlanmıştır.
+
+## 8.3 Bakım Yapılabilirlik (Maintainability)
+
+**AR Projesi Bakım Yapılabilirlik Tasarımı:**
+- Uygulamanın yazılım mimarisi ve kodlama standartları, bakım yapılabilirliği artırmak için düzenlenmiştir.
+- Eğitim odaklı özelliklerin ve sayıların kolayca güncellenebilir olması için modüler bir yapı kullanılmıştır.
+- Bakım süreçleri, olası hataların hızlı bir şekilde giderilebilmesi ve yeni özelliklerin eklenmesini kolaylaştırmak için düzenlenmiştir.
+
+## 8.4 Güvenlik (Safety)
+
+**AR Projesi Güvenlik Tasarımı:**
+- Karakter tasarımı, çocuklara uygun bir şekilde seçilmiştir, böylece oyun olumsuz etki yapmaz.
+- Sesli bildirimler, çocuklara yönergeler verirken güvenli bir öğrenme ortamı sağlamak için tasarlanmıştır.
+- Teknolojik değişikliklere hassasiyet gösterilerek, projenin güvenli ve güncel kalabilmesi amaçlanmıştır.
+
+
+# 9. Çalışanlar ve Sorumlulukları
+
+## 9.1 Proje Yürütücü ve Geliştirici
 - **Adı Soyadı:** Burak Furkan ERKEMEN
 - **Sorumlulukları:** Projenin genel yürütülmesi, AR uygulamasının tasarımı ve geliştirmesi.
 
-## 8.2 letişim Bilgileri
+## 9.2 letişim Bilgileri
 - **[E-posta](burakfurkanerkemen@gmail.com)** 
 - **[LinkedIn](https://www.linkedin.com/in/burak-furkan-erkemen-706b3522b/)**
 - **[GitHub](https://github.com/BurakErkemen)**
