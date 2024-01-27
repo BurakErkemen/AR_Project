@@ -27,6 +27,7 @@ Bu seçenekler, kullanıcıların oyunu kendi tercihlerine göre keşfetmelerini
 ![Öğretici Mod Sesleri](https://github.com/BurakErkemen/AR_Project/assets/84676805/20f9e67e-ae3c-4e13-89db-9468f3bcae85)
 
 *Şekil 2: Öğretici Mod Sesleri*
+
 Bu resimde, projenin öğretici modunda kullanılan sesli bildirimleri görmektesiniz. Sesli yönergeler, çocuklara oyunu öğrenmeleri ve anlamaları konusunda rehberlik eder. Her bir ses, çocukları oyunun temel konseptleri hakkında bilgilendirir ve eğitim sürecini daha etkileşimli hale getirir.
 
 
