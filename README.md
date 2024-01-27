@@ -65,3 +65,7 @@ Karakter devam ederek sesle verilen sayıya doğu koşmanız istenir. Sayıya te
 
 6.	Kullanım
   Oyunun başlangıcı kullanıcı dostu bir arayüz sağlamaktadır. Hedeflenen amaca yönelik bir yol göstermektedir. Şekil-1’de göründüğü kullanıcının yapmak istediği işlem hızlıca seçebilme olanağı vermektedir.
+
+
+
+Doküman için: [Doküman.docx](https://github.com/BurakErkemen/AR_Project/files/14073228/Dokuman.docx)
