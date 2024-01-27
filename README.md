@@ -105,5 +105,17 @@ Rakamlar çocuğa sesli olarak söylenir. Başarılı olması durumunda tebrik v
 - **Teknolojik Değişiklikler:** Projenin teknolojik bağlılığı, teknolojik değişikliklere hassasiyet yaratabilir. Özellikle AR teknolojilerinde yaşanan hızlı değişimler göz önüne alınmalıdır.
 - **Rekabet:** Eğitim odaklı AR projeleri alanında rekabet oldukça yüksek olabilir. Bu nedenle, benzer projelerle rekabet etme stratejileri düşünülmelidir.
 
+# 8. Çalışanlar ve Sorumlulukları
+
+## 8.1 Proje Yürütücü ve Geliştirici
+- **Adı Soyadı:** Burak Furkan ERKEMEN
+- **Sorumlulukları:** Projenin genel yürütülmesi, AR uygulamasının tasarımı ve geliştirmesi.
+
+## 8.2 letişim Bilgileri
+- **[E-posta](burakfurkanerkemen@gmail.com)** 
+- **[LinkedIn](https://www.linkedin.com/in/burak-furkan-erkemen-706b3522b/)**
+- **[GitHub](https://github.com/BurakErkemen)**
+
+Proje üzerinde tek başına çalışan **Burak Furkan ERKEMEN**, tasarım ve geliştirme süreçlerini yönetmekte ve uygulamanın genel sorumluluğunu üstlenmektedir.
 
 [Doküman.docx](https://github.com/BurakErkemen/AR_Project/files/14073228/Dokuman.docx) için tıklayınız.
