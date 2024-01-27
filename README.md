@@ -68,4 +68,4 @@ Karakter devam ederek sesle verilen sayıya doğu koşmanız istenir. Sayıya te
 
 
 
-Doküman için: [Doküman.docx](https://github.com/BurakErkemen/AR_Project/files/14073228/Dokuman.docx)
+[Doküman.docx](https://github.com/BurakErkemen/AR_Project/files/14073228/Dokuman.docx) için tıklayınız.
